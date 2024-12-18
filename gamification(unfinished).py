@@ -1,3 +1,5 @@
+#Game UI 디자인 작업중, 미완
+
 import pygame
 import random
 
